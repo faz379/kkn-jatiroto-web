@@ -477,7 +477,7 @@
 
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="testimonial-item">
+            <div class="member">
               <img src="assets/img/team/putra.png" alt="">
               <h4>Elza Putra</h4>
               <span>Koordinator Mahasiswa Desa</span>
@@ -494,7 +494,7 @@
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="testimonial-item">
+            <div class="member">
               <img src="assets/img/team/team-2.jpg" alt="">
               <h4>Sarah Jhinson</h4>
               <span>Product Manager</span>
@@ -511,7 +511,7 @@
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="testimonial-item">
+            <div class="member">
               <img src="assets/img/team/team-3.jpg" alt="">
               <h4>William Anderson</h4>
               <span>CTO</span>
