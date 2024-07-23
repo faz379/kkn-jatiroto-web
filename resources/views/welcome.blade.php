@@ -47,28 +47,20 @@
         <!-- Uncomment below if you prefer to use an image logo -->
       </div>
 
-      <nav id="navbar" class="navbar order-last order-lg-0">
+    <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#services">Proker</a></li>
-          <li><a class="nav-link scrollto " href="#portfolio">Dokumentasi</a></li>
-          <li><a class="nav-link scrollto" href="#testimonials">Team</a></li>
-          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+        <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+        <li><a class="nav-link scrollto" href="#about">About</a></li>
+        <li><a class="nav-link scrollto" href="#services">Proker</a></li>
+        <li><a class="nav-link scrollto " href="#portfolio">Dokumentasi</a></li>
+        <li><a class="nav-link scrollto" href="#team">Team</a></li>
+        <li class="dropdown"><a href="#"><span>Laporan</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
+              <li><a href="https://docs.google.com/spreadsheets/d/1HDffKVWNpe66XZFmHo2UCxdVWtaFPW72/edit?usp=drivesdk&ouid=103476695917941577962&rtpof=true&sd=true">Laporan Keuangan</a></li>
+              <li><a href="https://docs.google.com/spreadsheets/d/1VhY8YlGZhb62inpKTCGoFe1IpCcTkBgisPH8aFShGnk/edit?usp=drivesdk">RAB</a></li>
+              <li><a href="https://docs.google.com/spreadsheets/d/1wZLxwZ3gYUIseDEECWJG-fg93UolU64XG-eeUMd4Pk4/edit?usp=sharing">Laporan Tentatif</a></li>
+              <li><a href="https://docs.google.com/document/d/1YLd2IZJr_lmCLBfx8H37dPwealHdkHm7dvcSuXtYF-s/edit">Laporan Definitif</a></li>
+              <li><a href="#">Laporan Akhir</a></li>
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
@@ -108,7 +100,9 @@
             <div class="icon-box">
               <div class="icon"><i class="fas fa-book"></i></div>
               <h4><a href="">Pendidikan</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <p>Divisi Pendidikan bertujuan untuk meningkatkan kualitas pendidikan di Desa Jatiroto.
+                Tanggung jawabnya meliputi penyelenggaraan program pendidikan formal dan non-formal,
+                penyediaan beasiswa bagi siswa berprestasi, serta peningkatan fasilitas dan sarana pendidikan.</p>
             </div>
           </div>
 
@@ -116,7 +110,9 @@
             <div class="icon-box">
               <div class="icon"><i class="fas fa-leaf"></i></div>
               <h4><a href="">Lingkungan</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <p>Divisi Lingkungan di Desa Jatiroto bertanggung jawab untuk menjaga dan meningkatkan kualitas lingkungan hidup di desa.
+                Tugas utamanya meliputi pengelolaan penghijauan dan pelestarian sumber daya alam.
+              </p>
             </div>
           </div>
 
@@ -124,7 +120,9 @@
             <div class="icon-box">
               <div class="icon"><i class="fas fa-dollar"></i></div>
               <h4><a href="">Ekonomi</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <p>Divisi Ekonomi fokus pada peningkatan kesejahteraan ekonomi warga Desa Jatiroto.
+                Tugasnya meliputi pengembangan usaha mikro, kecil, dan menengah (UMKM),
+                peningkatan keterampilan kerja masyarakat, serta pemberdayaan ekonomi lokal. </p>
             </div>
           </div>
 
@@ -132,7 +130,9 @@
             <div class="icon-box">
               <div class="icon"><i class="fas fa-house"></i></div>
               <h4><a href="">Pemerintahan Desa</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <p>Divisi Pemerintahan Desa berfungsi untuk mengelola administrasi dan pemerintahan di Desa Jatiroto.
+                Tugasnya meliputi pengurusan dokumen kependudukan,
+                pelayanan publik, koordinasi antara pemerintah desa dan masyarakat, serta pelaksanaan program-program pembangunan desa. </p>
             </div>
           </div>
 
@@ -140,7 +140,8 @@
             <div class="icon-box">
               <div class="icon"><i class="fas fa-heartbeat"></i></div>
               <h4><a href="">Kesehatan</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <p>Divisi Kesehatan bertujuan untuk meningkatkan kesehatan masyarakat Desa Jatiroto. Tanggung jawab divisi ini mencakup penyediaan layanan kesehatan dasar,
+                penyelenggaraan posyandu, dan program kesehatan gigi. </p>
             </div>
           </div>
 
@@ -160,7 +161,7 @@
           <div class="col-lg-6 pt-4 pt-lg-0">
             <h3>About Us</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Kita ber-12 semoga ga ada drama kedepannya, semoga aman tentram jaya sejahtera yaaaa!!! &#128517; &#128517;
             </p>
               </div>
             </div>
@@ -184,35 +185,57 @@
             <div class="icon-box">
               <i class="fas fa-book"></i>
               <h4><a href="#">Pendidikan</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <ul>
+                <li>Kelompok Belajar.</li>
+                <li>Lomba Mewarnai. </li>
+                <li>Sosialisasi Bullying. </li>
+              </ul>
             </div>
           </div>
           <div class="col-md-6 mt-4 mt-lg-0">
             <div class="icon-box">
               <i class="fas fa-leaf"></i>
               <h4><a href="#">Lingkungan</a></h4>
-              <p>Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+              <ul>
+                <li>Irigasi Tetes. </li>
+                <li>Sosialisasi pestisida nabati. </li>
+                <li>Kerja bakti. </li>
+                <li>Sosialisasi Intensifikasi pekarangan & irigasi tetes. </li>
+              </ul>
             </div>
           </div>
           <div class="col-md-6 mt-4">
             <div class="icon-box">
               <i class="fas fa-dollar"></i>
               <h4><a href="#">Ekonomi</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+              <ul>
+                <li>Kunjungan dan pendampingan UMKM dan BUMDES di Desa Jatiroto.</li>
+                <li>Pengembangan UMKM dan BUMDES. </li>
+                <li>Pendataan Inventarisasi UMKM dan BUMDES. </li>
+                <li>Sosialisasi Digital Marketing dan Sertifikasi. </li>
+              </ul>
             </div>
           </div>
           <div class="col-md-6 mt-4">
             <div class="icon-box">
               <i class="fas fa-home"></i>
               <h4><a href="#">Pemerintahan Desa</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+              <ul>
+                <li>Peng-update-an Data-Data Desa.</li>
+                <li>Pendampingan Kegiatan Balai Desa.</li>
+              </ul>
             </div>
           </div>
           <div class="col-md-6 mt-4 mx-auto">
             <div class="icon-box">
               <i class="fas fa-heartbeat"></i>
               <h4><a href="#">Kesehatan</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+              <ul>
+                <li>Pendampingan posyandu balita, Posbindu, dan Posyandu Lansia.</li>
+                <li>Penyuluhan Kesehatan Gigi dan Mulut.</li>
+                <li>Edukasi dan Praktik Sikat Gigi Bersama.</li>
+                <li>Penyuluhan pencegahan stunting.</li>
+              </ul>
             </div>
           </div>
         </div>
@@ -233,9 +256,11 @@
           <div class="col-lg-12">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
+              <li data-filter=".filter-MINGGU-1">MINGGU-1</li>
+              <li data-filter=".filter-MINGGU-2">MINGGU-2</li>
+              <li data-filter=".filter-MINGGU-3">MINGGU-3</li>
+              <li data-filter=".filter-MINGGU-4">MINGGU-4</li>
+              <li data-filter=".filter-MINGGU-5">MINGGU-5</li>
             </ul>
           </div>
         </div>
@@ -382,90 +407,6 @@
       </div>
     </section><!-- End Portfolio Section -->
 
-    <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="testimonials section-bg">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>Team</h2>
-          <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>
-        </div>
-
-        <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
-          <div class="swiper-wrapper">
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
-                <h4>Ceo &amp; Founder</h4>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
-                <h4>Designer</h4>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
-                <h4>Store Owner</h4>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
-                <h4>Freelancer</h4>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>John Larson</h3>
-                <h4>Entrepreneur</h4>
-              </div>
-            </div><!-- End testimonial item -->
-
-          </div>
-          <div class="swiper-pagination"></div>
-        </div>
-
-      </div>
-    </section><!-- End Testimonials Section -->
-
     <!-- ======= Team Section ======= -->
     <section id="team" class="team">
       <div class="container">
@@ -478,9 +419,9 @@
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/putra.png" alt="">
-              <h4>Elza Putra</h4>
-              <span>Koordinator Mahasiswa Desa</span>
+              <img src="assets/img/team/1.png" alt="">
+              <h4>Chomsiatun Nurul Hidayah, S.PT., M.SI</h4>
+              <span>Dosen Pembimbing Lapangan</span>
               <p>
                 Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis quaerat qui aut aut aut
               </p>
@@ -495,9 +436,9 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-2.jpg" alt="">
-              <h4>Sarah Jhinson</h4>
-              <span>Product Manager</span>
+              <img src="assets/img/team/2.png" alt="">
+              <h4>Elza Putra Azzura</h4>
+              <span>Koordinator Mahasiswa Desa</span>
               <p>
                 Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
               </p>
@@ -512,11 +453,181 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-3.jpg" alt="">
-              <h4>William Anderson</h4>
-              <span>CTO</span>
+              <img src="assets/img/team/3.png" alt="">
+              <h4>Fera Eliza</h4>
+              <span>Bendahara</span>
               <p>
                 Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
+              </p>
+              <div class="social">
+                <a href=""><i class="bi bi-twitter"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/4.png" alt="">
+              <h4>Nurmarita Afna Nabila</h4>
+              <span>Sekertaris</span>
+              <p>
+                Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
+              </p>
+              <div class="social">
+                <a href=""><i class="bi bi-twitter"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/5.png" alt="">
+              <h4>Abraham Mulki Sulthon</h4>
+              <span>Ekonomi</span>
+              <p>
+                Akulah cahaya dari kegelapan
+              </p>
+              <div class="social">
+                <a href=""><i class="bi bi-twitter"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/6.png" alt="">
+              <h4>Suci Yulia</h4>
+              <span>Ekonomi</span>
+              <p>
+                Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
+              </p>
+              <div class="social">
+                <a href=""><i class="bi bi-twitter"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/7.png" alt="">
+              <h4>Putri Setianingrum</h4>
+              <span>Lingkungan</span>
+              <p>
+                Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
+              </p>
+              <div class="social">
+                <a href=""><i class="bi bi-twitter"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/9.png" alt="">
+              <h4>Dwita Saputri</h4>
+              <span>Lingkungan</span>
+              <p>
+                Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
+              </p>
+              <div class="social">
+                <a href=""><i class="bi bi-twitter"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/8.png" alt="">
+              <h4>Alun Tandayu Pinedha</h4>
+              <span>Pendidikan</span>
+              <p>
+                Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
+              </p>
+              <div class="social">
+                <a href=""><i class="bi bi-twitter"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/10.png" alt="">
+              <h4>Anandita Al-Ayyubi</h4>
+              <span>Pendidikan</span>
+              <p>
+                Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
+              </p>
+              <div class="social">
+                <a href=""><i class="bi bi-twitter"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/11.png" alt="">
+              <h4>Nabiel Labib Muhammad</h4>
+              <span>Pendidikan</span>
+              <p>
+                Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
+              </p>
+              <div class="social">
+                <a href=""><i class="bi bi-twitter"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <img src="assets/img/team/12.png" alt="">
+              <h4>Fazelian Alsya Pramudia</h4>
+              <span>Pemerintahan Desa</span>
+              <p>
+                Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
+              </p>
+              <div class="social">
+                <a href=""><i class="bi bi-twitter"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mx-auto">
+            <div class="member">
+              <img src="assets/img/team/13.png" alt="">
+              <h4>Tania Salsa Belani M.</h4>
+              <span>Kesehatan</span>
+              <p>
+                Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
               </p>
               <div class="social">
                 <a href=""><i class="bi bi-twitter"></i></a>
@@ -548,21 +659,23 @@
             <div class="info-wrap">
               <div class="row">
                 <div class="col-lg-4 info">
-                  <i class="bi bi-geo-alt"></i>
+                  <a href="https://www.google.com/maps/place/Balai+Desa+Jatiroto/@-7.6105802,109.461375,17z/data=!4m14!1m7!3m6!1s0x2e65495d054bbfd9:0x146104a70be4e78c!2sBalai+Desa+Jatiroto!8m2!3d-7.6105855!4d109.4639499!16s%2Fg%2F11b6byrfxj!3m5!1s0x2e65495d054bbfd9:0x146104a70be4e78c!8m2!3d-7.6105855!4d109.4639499!16s%2Fg%2F11b6byrfxj?hl=id&entry=ttu"><i class="bi bi-geo-alt"></i></a>
                   <h4>Location:</h4>
-                  <p>A108 Adam Street<br>New York, NY 535022</p>
+                  <p> 9FQ7+QH8, Karangtengah, Jatiroto,
+                    Kec. Buayan, Kabupaten Kebumen
+                    Jawa Tengah 54474<br><br></p>
                 </div>
 
                 <div class="col-lg-4 info mt-4 mt-lg-0">
                   <i class="bi bi-envelope"></i>
                   <h4>Email:</h4>
-                  <p>info@example.com<br>contact@example.com</p>
+                  <p>kknjatiroto24@gmail.com</p>
                 </div>
 
                 <div class="col-lg-4 info mt-4 mt-lg-0">
                   <i class="bi bi-phone"></i>
                   <h4>Call:</h4>
-                  <p>+1 5589 55488 51<br>+1 5589 22475 14</p>
+                  <p>+62 823-3918-2941 (Putra)</p>
                 </div>
               </div>
             </div>
@@ -614,11 +727,11 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>Lumia</h3>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+                9FQ7+QH8, Karangtengah, Jatiroto <br>
+                Kec. Buayan, Kabupaten Kebumen <br>
+                Jawa Tengah 54474<br><br>
+              <strong>Phone:</strong> +62 823-3918-2941 (Putra)<br>
+              <strong>Email:</strong> kknjatiroto24@gmail.com<br>
             </p>
           </div>
 
@@ -634,7 +747,7 @@
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Services</h4>
+            <h4>Program Kerja</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
@@ -660,7 +773,7 @@
 
       <div class="me-md-auto text-center text-md-start">
         <div class="copyright">
-          &copy; Copyright <strong><span>Lumia</span></strong>. All Rights Reserved
+          &copy; Copyright <strong><span>FZL</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
           <!-- All the links in the footer should remain intact. -->
