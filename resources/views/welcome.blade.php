@@ -80,7 +80,7 @@
     <div class="container text-center text-md-left" data-aos="fade-up">
       <h1>KKN Jatiroto <span>2024</span></h1>
       <h2>PERIODE JULI - AGUSTUS</h2>
-      <a href="#about" class="btn-get-started scrollto">Get Started</a>
+      <a href="#about" class="btn-get-started scrollto">Get To Know Us!</a>
     </div>
   </section><!-- End Hero -->
 
@@ -92,7 +92,7 @@
 
         <div class="section-title">
           <h2>Divisi</h2>
-          <p>Divisi Kuliah Kerja Nyata Kabupaten Kebumen, kecamatan Buayan, desa Jatiroto  </p>
+          <p>Divisi Kuliah Kerja Nyata Kabupaten Kebumen, Kecamatan Buayan, Desa Jatiroto  </p>
         </div>
 
         <div class="row">
@@ -267,62 +267,62 @@
 
         <div class="row portfolio-container">
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-MINGGU-1 wow fadeInUp">
             <div class="portfolio-wrap">
               <figure>
-                <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-                <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="link-preview portfolio-lightbox" title="Preview"><i class="bx bx-plus"></i></a>
+                <img src="assets/img/minggu 1/10/1.jpg" class="img-fluid" alt="">
+                <a href="assets/img/minggu 1/10/1.jpg" data-gallery="portfolioGallery" class="link-preview portfolio-lightbox" title="Preview"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bx bx-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">App 1</a></h4>
-                <p>App</p>
+                <h4><a href="portfolio-details.html">Upacara Penerimaan</a></h4>
+                <p>10/07/2024</p>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.1s">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-MINGGU-1 wow fadeInUp" data-wow-delay="0.1s">
             <div class="portfolio-wrap">
               <figure>
-                <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
-                <a href="assets/img/portfolio/portfolio-2.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
+                <img src="assets/img/minggu 1/10/3.jpg" class="img-fluid" alt="">
+                <a href="assets/img/minggu 1/10/3.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bx bx-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">Web 3</a></h4>
-                <p>Web</p>
+                <h4><a href="portfolio-details.html">Pemasangan Banner</a></h4>
+                <p>10/07/2024</p>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-MINGGU-1 wow fadeInUp" data-wow-delay="0.2s">
             <div class="portfolio-wrap">
               <figure>
-                <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
-                <a href="assets/img/portfolio/portfolio-3.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
+                <img src="assets/img/minggu 1/10/4.jpg" class="img-fluid" alt="">
+                <a href="assets/img/minggu 1/10/4.jpg"class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bx bx-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">App 2</a></h4>
-                <p>App</p>
+                <h4><a href="portfolio-details.html">Pemasangan Rute</a></h4>
+                <p>10/07/2024</p>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-MINGGU-1 wow fadeInUp">
             <div class="portfolio-wrap">
               <figure>
-                <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
-                <a href="assets/img/portfolio/portfolio-4.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
+                <img src="assets/img/minggu 1/10/6.jpg" class="img-fluid" alt="">
+                <a href="assets/img/minggu 1/10/6.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bx bx-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">Card 2</a></h4>
-                <p>Card</p>
+                <h4><a href="portfolio-details.html">CIHUY</a></h4>
+                <p>10/07/2024</p>
               </div>
             </div>
           </div>
