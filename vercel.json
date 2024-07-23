@@ -5,6 +5,12 @@
             "runtime": "vercel-php@0.6.0"
         }
     },
+    "builds": [
+        {
+            "src": "api/index.php",
+            "use": "@vercel/php"
+        }
+    ],
     "routes": [
         {
             "src": "/img/(.*)",
@@ -29,5 +35,6 @@
         "LOG_CHANNEL": "stderr",
         "SESSION_DRIVER": "cookie"
     },
+    "buildCommand": "apk add --no-cache openssl && npm run build",
     "outputDirectory": "public"
 }
