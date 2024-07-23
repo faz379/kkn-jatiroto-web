@@ -29,6 +29,5 @@
         "LOG_CHANNEL": "stderr",
         "SESSION_DRIVER": "cookie"
     },
-    "buildCommand": "apk add --no-cache openssl",
     "outputDirectory": "public"
 }
