@@ -22,5 +22,5 @@ RUN composer install --prefer-dist --no-dev --no-scripts --no-progress --no-inte
 COPY . .
 
 # Expose port 9000 dan jalankan perintah yang sesuai
-EXPOSE 9000
+EXPOSE 8000
 CMD ["php-fpm"]
